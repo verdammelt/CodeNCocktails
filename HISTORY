@@ -1,3 +1,5 @@
+/* vim: set ft=text: */
+
 20120216: 0.0.1
     Initial Release
     Who: Mark Simspon, Zach Shaw, Moss Collum
@@ -17,4 +19,36 @@
         * Code as a 'dashboard'
         * Half-baked ideas for upcoming BSC meetings
 
+
+20120227:
+    [prototype for next release]
+    Who: Mark Simpson, Wendy Mastandrea (QA)
+    Where: Brick and Mortar, Central Square, Cambridge, MA
+    What: Sazerac & Gentleman John - mjs
+        A Bitter Pill To Swallow - wendymas
+
+    I wanted to test out the location again since it seemed that the previous
+    night had just been a wrong time (any sort of work with dates and times is
+    fraught with problems).
+
+    The location was very quiet when testing began and only started to get
+    more customers and louder near the end of the test run.  Talking with the
+    bartender (Kenny) revealed that Monday and Tuesday nights are generally
+    quiet and only really gets busier nearer to 20:00.  So the idea of
+    Code-n-Cocktails generally earlier in the evening, as an after-work thing
+    would work well.
+
+    Drinks were very tasty - and further menu items were also tested (no
+    faults found).  The bartender was happy to show off his craft - a very
+    good thing.
+
+    I discussed the idea of Code-n-Cocktails to the bartender and he seemed
+    amused/pleased with the idea.  He said he just wants people to come in,
+    enjoy good drinks and have a good time.
+
+    Given how quiet and empty the place was I think it would be a great
+    location for the Code-n-Cocktail.
+
+    I declare testing to be successful and I suggest "ship it!" for this
+    feature set.
 
