@@ -1,6 +1,5 @@
-/* vim: set ft=text: */
 
-20120216: 0.0.1
+## 20120216: 0.0.1
     Initial Release
     Who: Mark Simpson, Zach Shaw, Moss Collum
     Where: Brick and Mortar, Central Square, Cambridge MA
@@ -20,7 +19,7 @@
         * Half-baked ideas for upcoming BSC meetings
 
 
-20120227: 0.0.1
+## 20120227: 0.0.1
     [prototype for next release]
     Who: Mark Simpson, Wendy Mastandrea (QA)
     Where: Brick and Mortar, Central Square, Cambridge, MA
@@ -52,7 +51,7 @@
     I declare testing to be successful and I suggest "ship it!" for this
     feature set.
 
-20120227: 0.0.1
+## 20120227: 0.0.1
     [prototype for next release]
     Who: Chloe, Sara
     Where: Backbar, Union Square, Somerville MA
@@ -66,7 +65,7 @@
     nicely by 9. They suggested making a reservation if you're going Thursday,
     Friday, or Saturday night. Open Thursday - Monday.
 
-20120313: 0.0.2
+## 20120313: 0.0.2
     Moss
     Neil
     Zach
